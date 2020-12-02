@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="场次" />
       <item value="买家" />
       <item value="standard" />
       <item value="标准" />
@@ -50,7 +51,6 @@
       <item value="高佣转化" />
       <item value="高佣转换" />
       <item value="效率" />
-      <item value="高效转链" />
     </histories>
     <option name="languageScores">
       <map>
