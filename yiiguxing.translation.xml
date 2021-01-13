@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="协议声明" />
+      <item value="声明" />
       <item value="出价" />
       <item value="秒杀" />
       <item value="场次" />
@@ -52,8 +55,6 @@
       <item value="用户协议" />
       <item value="inviter Member Code" />
       <item value="inviter" />
-      <item value="high-commission-transfer" />
-      <item value="高佣转化" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,9 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609208523069" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="lastTrimTime" value="1610532788965" />
   </component>
 </application>
