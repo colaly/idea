@@ -281,7 +281,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -415,6 +414,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.env">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.adelf.idea.dotenv" />
+              <option name="myPluginName" value=".env files support" />
             </plugin>
           </value>
         </entry>
@@ -1000,7 +1007,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1018,7 +1024,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1027,7 +1032,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1036,7 +1040,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1045,7 +1048,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1054,7 +1056,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1063,7 +1064,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1977,6 +1977,22 @@
               <option name="myPluginId" value="org.editorconfig.editorconfigjetbrains" />
               <option name="myPluginName" value="EditorConfig" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".env">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.adelf.idea.dotenv" />
+              <option name="myPluginName" value=".env files support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".env.*">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.adelf.idea.dotenv" />
+              <option name="myPluginName" value=".env files support" />
             </plugin>
           </value>
         </entry>
