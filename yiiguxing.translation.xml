@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Rebate" />
+      <item value="返利" />
+      <item value="promotion Rate" />
+      <item value="promotion" />
       <item value="协议声明" />
       <item value="声明" />
       <item value="出价" />
@@ -24,7 +28,6 @@
       <item value="description" />
       <item value="奖池信息" />
       <item value="新手礼包" />
-      <item value="返利" />
       <item value="猜你喜欢" />
       <item value="0" />
       <item value="0元购" />
@@ -52,9 +55,6 @@
       <item value="子" />
       <item value="子节点" />
       <item value="联盟搜索" />
-      <item value="用户协议" />
-      <item value="inviter Member Code" />
-      <item value="inviter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610532788965" />
+    <option name="lastTrimTime" value="1612071292176" />
   </component>
 </application>
