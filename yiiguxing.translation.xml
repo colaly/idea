@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="prom" />
       <item value="Discount ratio" />
       <item value="折扣比" />
       <item value="Rebate" />
@@ -54,7 +55,6 @@
       <item value="childen" />
       <item value="child" />
       <item value="孩子" />
-      <item value="子" />
     </histories>
     <option name="languageScores">
       <map>
