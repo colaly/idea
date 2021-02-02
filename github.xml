@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="9120489b-1957-4b9c-9c0f-083fbc9a4c56" name="colaly">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
