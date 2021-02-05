@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="forbid" />
       <item value="prom" />
       <item value="Discount ratio" />
       <item value="折扣比" />
@@ -54,7 +55,6 @@
       <item value="children" />
       <item value="childen" />
       <item value="child" />
-      <item value="孩子" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,5 +71,8 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1612071292176" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
