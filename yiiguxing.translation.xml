@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="自营" />
       <item value="forbid" />
       <item value="prom" />
       <item value="Discount ratio" />
@@ -54,11 +55,10 @@
       <item value="专题商品" />
       <item value="children" />
       <item value="childen" />
-      <item value="child" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
+        <entry key="CHINESE" value="357" />
         <entry key="ENGLISH" value="357" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
