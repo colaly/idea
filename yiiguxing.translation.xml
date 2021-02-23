@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="760" />
-    <option name="newTranslationDialogY" value="428" />
+    <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="Unicom" />
+      <item value="中国联通" />
+      <item value="联通" />
+      <item value="Uniun" />
       <item value="Directory separator should not appear in library name" />
       <item value="realm" />
       <item value="Access denied for user 'root'@'218.19.139.236' (using password: YES)" />
@@ -51,18 +55,15 @@
       <item value="Man" />
       <item value="下单次数" />
       <item value="VIP用户" />
-      <item value="general" />
-      <item value="普通" />
-      <item value="级别" />
-      <item value="waiting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
+        <entry key="CHINESE" value="359" />
         <entry key="ENGLISH" value="359" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="3" />
+        <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="HINDI" value="1" />
@@ -70,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613640305971" />
+    <option name="lastTrimTime" value="1614081446659" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
