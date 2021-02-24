@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="Return outside method" />
       <item value="Unicom" />
       <item value="中国联通" />
       <item value="联通" />
@@ -54,7 +55,6 @@
       <item value="使用" />
       <item value="Man" />
       <item value="下单次数" />
-      <item value="VIP用户" />
     </histories>
     <option name="languageScores">
       <map>
