@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="coin" />
+      <item value="返利" />
+      <item value="返利re" />
+      <item value="币" />
       <item value="Return outside method" />
       <item value="Unicom" />
       <item value="中国联通" />
@@ -22,7 +26,6 @@
       <item value="Discount ratio" />
       <item value="折扣比" />
       <item value="Rebate" />
-      <item value="返利" />
       <item value="promotion Rate" />
       <item value="promotion" />
       <item value="协议声明" />
@@ -52,9 +55,6 @@
       <item value="看视频次数" />
       <item value="invalid" />
       <item value="失效" />
-      <item value="使用" />
-      <item value="Man" />
-      <item value="下单次数" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614562092493" />
+    <option name="lastTrimTime" value="1615044320108" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
