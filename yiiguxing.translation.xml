@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="132" />
     <histories>
+      <item value="报名" />
+      <item value="test" />
+      <item value="考试" />
       <item value="Asia" />
       <item value="handled" />
       <item value="handle" />
@@ -52,9 +55,6 @@
       <item value="新手礼包" />
       <item value="猜你喜欢" />
       <item value="0" />
-      <item value="0元购" />
-      <item value="* Compares this {@code BigDecimal} with the specified * {@code BigDecimal}. Two {@code BigDecimal} objects that are * equal in value but have a different scale (like 2.0 and 2.00) * are considered equal by this method. This method is provided * in preference to individual methods for each of the six boolean * comparison operators ({@literal &lt;}, ==, * {@literal &gt;}, {@literal &gt;=}, !=, {@literal &lt;=}). The * suggested idiom for performing these comparisons is: * {@code (x.compareTo(y)} &amp;lt;&lt;i&gt;op&lt;/i&gt;&amp;gt; {@code 0)}, where * &amp;lt;&lt;i&gt;op&lt;/i&gt;&amp;gt; is one of the six comparison operators. * * @param val {@code BigDecimal} to which this {@code BigDecimal} is * to be compared. * @return -1, 0, or 1 as this {@code BigDecimal} is numerically * less than, equal to, or greater than {@code val}." />
-      <item value="会员" />
     </histories>
     <option name="languageScores">
       <map>
