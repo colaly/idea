@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="132" />
     <histories>
+      <item value="Word-of-mouth brand" />
+      <item value="口碑品牌" />
       <item value="choice" />
       <item value="精选" />
       <item value="报名" />
@@ -53,8 +55,6 @@
       <item value="谢谢" />
       <item value="福气币" />
       <item value="description" />
-      <item value="奖池信息" />
-      <item value="新手礼包" />
     </histories>
     <option name="languageScores">
       <map>
