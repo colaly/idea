@@ -4,7 +4,6 @@
     <option name="useDefaultBrowser" value="false" />
   </component>
   <component name="Registry">
-    <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="compiler.automake.postpone.when.idle.less.than" value="1000" />
   </component>
 </application>
